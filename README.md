@@ -16,3 +16,6 @@
 8) DC Gear Motor TT - 65 RPM (Right Angle, Pair)			    1 τεμ 
 9) Ball Caster with Metal Ball 0.4"							        2 τεμ
 10) Ribbon 40wire 20cm - Male to Male	                    1 τεμ
+11) Μπαταρία Li-Pο - 3.7v 800mAh                        2 τεμ
+12) Solar Lithium Battery Charger - CN3065              1 τεμ
+13) Φωτοβολταϊκή Κυψέλη 0.5W 55x70mm                    2 τεμ
