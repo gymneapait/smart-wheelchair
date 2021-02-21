@@ -23,3 +23,4 @@
 11) Μπαταρία Li-Pο - 3.7v 800mAh                        2 τεμ
 12) Solar Lithium Battery Charger - CN3065              1 τεμ
 13) Φωτοβολταϊκή Κυψέλη 0.5W 55x70mm                    2 τεμ
+14) 3D Pen Sunlu M1 - Black                             1 τεμ
